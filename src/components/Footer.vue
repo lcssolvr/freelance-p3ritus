@@ -2,7 +2,7 @@
   <footer class="bg-primary text-secondary py-10 mt-auto">
     <div class="container mx-auto px-4 grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
       <div>
-        <h3 class="text-2xl font-cardo font-light mb-1">PΣRITUS</h3>
+        <h3 class="text-2xl font-serif font-light mb-1">PΣRITUS</h3>
         <p class="text-sm opacity-80">
           Excelência em Perícia Judicial e Extrajudicial.
         </p>

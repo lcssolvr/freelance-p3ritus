@@ -127,7 +127,7 @@ export const services = [
     },
     {
         slug: 'pericia-previa-recuperacao',
-        title: 'Pericia Prévia (Recuperação Judicial)',
+        title: 'Perícia Prévia',
         description: 'A Perícia Prévia, ou Constatação Prévia, é uma etapa crucial na Recuperação Judicial (Lei 11.101/05). Ela serve para verificar se a empresa devedora preenche os requisitos legais e se a documentação apresentada condiz com a realidade física e contábil, evitando o uso indevido do instituto da recuperação.',
         methodology: 'Realizamos uma "visita técnica" imediata às instalações da empresa para verificar o funcionamento operacional. Analisamos a consistência da lista de credores, a regularidade dos livros contábeis e a viabilidade do plano de recuperação proposto. O relatório é entregue ao juiz em prazo exíguo (geralmente 5 dias) para subsidiar o deferimento do processamento.',
         benefits: [

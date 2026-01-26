@@ -39,7 +39,7 @@
 
         <div class="bg-primary text-secondary rounded-2xl p-12 text-center shadow-2xl relative overflow-hidden">
            <div class="relative z-10">
-             <h2 class="text-3xl font-serif font-bold mb-4">Precisa de uma avaliação técnica?</h2>
+             <h2 class="text-3xl font-sans font-bold mb-4">Precisa de uma avaliação técnica?</h2>
              <p class="max-w-2xl mx-auto text-lg mb-8 opacity-90">
                Entre em contato conosco para agendar uma reunião inicial ou solicitar uma proposta de honorários sem compromisso.
              </p>

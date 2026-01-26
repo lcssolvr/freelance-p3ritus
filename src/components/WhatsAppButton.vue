@@ -23,8 +23,8 @@
 <script setup>
 import { computed } from 'vue'
 
-const phoneNumber = "5571991821918"
-const message = "Olá, gostaria de mais informações sobre os serviços da P3RITUS."
+const phoneNumber = "5571999999999"
+const message = "Olá, gostaria de mais informações sobre os serviços da Peritus."
 
 const whatsappLink = computed(() => {
   return `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`
