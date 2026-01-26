@@ -17,7 +17,7 @@
         </ul>
       </div>
       <div>
-        <h4 class="font-sans font-bold mb-4 uppercase tracking-wider text-sm">Contato</h4>
+        <h4 class="font-sans font-bold mb-1 uppercase tracking-wider text-sm">Contato</h4>
         <p class="mb-2">Rua Exemplo, 123, Sala 405
             Bairro Centro, Cidade - UF
             CEP: 12345-000

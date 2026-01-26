@@ -1,9 +1,9 @@
 <template>
   <div class="about">
     <section class="bg-primary text-secondary py-20 text-center">
-      <div class="container mx-auto px-4">
+      <div class="container mx-auto px-4 animate-on-scroll">
         <h1 class="text-4xl md:text-5xl font-bold mb-4">Sobre Nós</h1>
-        <p class="text-xl max-w-2xl mx-auto">Conheça nossa empresa e nosso compromisso com a verdade técnica.</p>
+        <p class="text-xl max-w-2xl mx-auto opacity-90 delay-100 animate-on-scroll">Conheça nossa empresa e nosso compromisso com a verdade técnica.</p>
       </div>
     </section>
 
