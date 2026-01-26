@@ -2,7 +2,7 @@
   <div class="location">
     <section class="bg-primary text-secondary py-20 text-center">
       <div class="container mx-auto px-4">
-         <h1 class="font-serif text-4xl md:text-5xl font-bold mb-4">Localização</h1>
+         <h1 class="text-4xl md:text-5xl font-bold mb-4">Localização</h1>
          <p class="text-xl max-w-2xl mx-auto">Venha nos visitar ou entre em contato.</p>
       </div>
     </section>
@@ -10,7 +10,7 @@
     <section class="py-20 bg-white">
       <div class="container mx-auto px-4 grid grid-cols-1 md:grid-cols-2 gap-12">
         <div class="space-y-8">
-           <h2 class="text-3xl font-serif font-bold text-primary mb-6">Fale Conosco</h2>
+           <h2 class="text-3xl font-bold text-primary mb-6">Fale Conosco</h2>
            
            <div class="flex items-start space-x-4">
              <div class="bg-secondary/20 p-3 rounded-full text-primary">

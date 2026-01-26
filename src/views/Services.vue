@@ -2,7 +2,7 @@
   <div class="services">
     <section class="bg-primary text-secondary py-20 text-center">
       <div class="container mx-auto px-4">
-        <h1 class="font-serif text-4xl md:text-5xl font-bold mb-4">Nossos Serviços</h1>
+        <h1 class="text-4xl md:text-5xl font-bold mb-4">Nossos Serviços</h1>
         <p class="text-xl max-w-2xl mx-auto">Soluções técnicas especializadas para demandas complexas.</p>
       </div>
     </section>
@@ -15,7 +15,7 @@
              <div class="h-1 w-12 bg-secondary mb-8 group-hover:w-full transition-all duration-500"></div>
              
              <div class="flex items-baseline justify-between mb-4">
-               <h2 class="text-2xl font-serif font-bold text-primary group-hover:text-secondary transition-colors">{{ service.title }}</h2>
+               <h2 class="text-2xl font-bold text-primary group-hover:text-secondary transition-colors">{{ service.title }}</h2>
                <span class="text-4xl text-gray-100 font-bold -mt-4 group-hover:text-primary/10 transition-colors">{{ String(index + 1).padStart(2, '0') }}</span>
              </div>
             

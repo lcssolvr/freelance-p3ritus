@@ -14,7 +14,7 @@
 
     <section class="py-20 bg-white">
       <div class="container mx-auto px-4 text-center">
-        <h2 class="text-3xl font-serif font-bold text-primary mb-8">Soluções Periciais com Credibilidade</h2>
+        <h2 class="text-3xl font-bold text-primary mb-8">Soluções Periciais com Credibilidade</h2>
         <p class="text-gray-600 max-w-4xl mx-auto text-lg leading-relaxed mb-12">
           Somos especializados em oferecer suporte técnico em questões complexas que exigem conhecimento aprofundado em contabilidade, economia e finanças. Atuamos com rigor técnico e ética para fornecer laudos e pareceres que fundamentam decisões judiciais e estratégias empresariais.
         </p>
@@ -39,7 +39,7 @@
         </div>
 
         <div class="text-left max-w-5xl mx-auto">
-          <h3 class="text-2xl font-serif font-bold text-primary mb-8 text-center">Como Trabalhamos</h3>
+          <h3 class="text-2xl font-bold text-primary mb-8 text-center">Como Trabalhamos</h3>
           <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
              <div class="relative pl-8 md:pl-0">
                <div class="hidden md:block absolute top-0 right-0 -mr-4 text-6xl text-gray-100 font-bold z-0">01</div>
@@ -64,7 +64,7 @@
 
     <section class="py-20 bg-gray-50">
       <div class="container mx-auto px-4">
-        <h2 class="text-3xl font-serif font-bold text-center text-primary mb-12">Áreas de Atuação</h2>
+        <h2 class="text-3xl font-bold text-center text-primary mb-12">Áreas de Atuação</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div class="bg-white p-8 rounded-lg shadow-md hover:shadow-xl transition-shadow border-t-4 border-primary">
             <h3 class="text-xl font-bold mb-4 text-primary">Perícia Judicial e Extrajudicial</h3>

@@ -7,12 +7,13 @@ export default {
     theme: {
         extend: {
             colors: {
-                'primary': '#3E0E18',
+                'primary': '#203465',
                 'secondary': '#E8DCC0',
             },
             fontFamily: {
-                serif: ['"Merriweather"', 'serif'],
                 sans: ['"Open Sans"', 'sans-serif'],
+                serif: ['"Cardo"', 'serif'],
+                cardo: ['"Cardo"', 'serif'],
             }
         },
     },

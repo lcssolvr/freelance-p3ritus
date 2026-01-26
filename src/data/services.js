@@ -91,8 +91,8 @@ export const services = [
     },
     {
         slug: 'avaliacao-de-empresas',
-        title: 'Avaliação de Empresas (Valuation)',
-        description: 'O Valuation é o processo técnico de determinar o valor de mercado de uma unidade econômica. Vai além da simples soma de ativos, considerando o potencial de geração de caixa futuro, o posicionamento de mercado, os riscos inerentes ao setor e os ativos intangíveis (marca, carteira de clientes, tecnologia).',
+        title: 'Avaliação de Empresas',
+        description: 'A avaliação de empresas é o processo técnico de determinar o valor de mercado de uma unidade econômica. Vai além da simples soma de ativos, considerando o potencial de geração de caixa futuro, o posicionamento de mercado, os riscos inerentes ao setor e os ativos intangíveis (marca, carteira de clientes, tecnologia).',
         methodology: 'Adotamos as metodologias mais respeitadas pelo mercado financeiro: Fluxo de Caixa Descontado (FCD), que projeta a rentabilidade futura; Múltiplos de Mercado, para comparação com empresas similares; e o Valor de Liquidação. A escolha do método depende do objetivo da avaliação e da maturidade do negócio.',
         benefits: [
             'Suporte decisório crítico para compra, venda ou fusão de negócios.',

@@ -2,7 +2,7 @@
   <footer class="bg-primary text-secondary py-10 mt-auto">
     <div class="container mx-auto px-4 grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
       <div>
-        <h3 class="font-serif text-2xl font-light mb-4">PΣRITUS</h3>
+        <h3 class="text-2xl font-cardo font-light mb-1">PΣRITUS</h3>
         <p class="text-sm opacity-80">
           Excelência em Perícia Judicial e Extrajudicial.
         </p>
@@ -17,7 +17,7 @@
         </ul>
       </div>
       <div>
-        <h4 class="font-bold mb-4 uppercase tracking-wider text-sm">Contato</h4>
+        <h4 class="font-sans font-bold mb-4 uppercase tracking-wider text-sm">Contato</h4>
         <p class="mb-2">Rua Exemplo, 123, Sala 405
             Bairro Centro, Cidade - UF
             CEP: 12345-000

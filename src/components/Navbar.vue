@@ -1,16 +1,19 @@
 <template>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
   <nav class="bg-primary text-secondary py-3 px-10 shadow-md sticky top-0 z-50">
     <div class="container mx-auto flex justify-between items-center">
-      <router-link to="/">
-        <img src="../assets/peritus_logo_nome_transparente.png" alt="P3RITUS Logo" class="h-24 w-auto object-contain" />
+      <router-link to="/" class="transition-all duration-300 hover:text-white hover:-translate-y-1 inline-block">
+        <p class="text-3xl font-serif font-light">PΣRITUS</p>
       </router-link>
 
-      <div class="hidden md:flex items-center gap-8 font-serif text-xl">
+      <div class="hidden md:flex items-center gap-8 font-light text-xl">
         <router-link to="/" class="hover:text-white transition-colors">Início</router-link>
         <router-link to="/sobre" class="hover:text-white transition-colors">Sobre Nós</router-link>
         
         <div class="relative group">
-          <router-link to="/servicos" class="hover:text-white transition-colors py-2 block">Serviços</router-link>
+          <router-link to="/servicos" class="hover:text-white transition-colors py-2 block ">Serviços</router-link>
           <div class="absolute left-0 mt-0 w-64 bg-white text-gray-800 rounded shadow-lg py-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform origin-top-left z-50">
              <router-link 
                 v-for="service in services" 

@@ -2,25 +2,25 @@
   <div class="about">
     <section class="bg-primary text-secondary py-20 text-center">
       <div class="container mx-auto px-4">
-        <h1 class="font-serif text-4xl md:text-5xl font-bold mb-4">Sobre Nós</h1>
-        <p class="text-xl max-w-2xl mx-auto">Conheça a P3RITUS e nosso compromisso com a verdade técnica.</p>
+        <h1 class="text-4xl md:text-5xl font-bold mb-4">Sobre Nós</h1>
+        <p class="text-xl max-w-2xl mx-auto">Conheça nossa empresa e nosso compromisso com a verdade técnica.</p>
       </div>
     </section>
 
-    <section class="py-20 bg-white">
-      <div class="container mx-auto px-4 grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
-        <div>
-          <img src="/src/assets/uploaded_image_3_1768991991248.png" alt="Justiça" class="rounded-lg shadow-lg w-full max-w-md mx-auto" />
+    <section class="bg-white">
+      <div class="grid grid-cols-1 md:grid-cols-2 h-full">
+        <div class="h-full">
+          <img src="../assets/escritorio.png" alt="Escritório" class="w-full h-full object-cover" />
         </div>
-        <div>
-           <h2 class="text-3xl font-serif font-bold text-primary mb-6">Nossa História</h2>
+        <div class="p-10 md:p-20 flex flex-col justify-center">
+           <h2 class="text-4xl font-bold text-primary mb-6">Nossa História</h2>
            <p class="text-gray-600 text-lg leading-relaxed mb-6">
              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos amet eveniet placeat. Molestias ex nobis at. Perspiciatis repudiandae sed ipsam, ipsa qui eligendi beatae sunt aliquam nostrum accusamus sapiente autem.
           </p>
            <p class="text-gray-600 text-lg leading-relaxed mb-6">
              Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga eum odio neque tenetur aspernatur? Repellendus, explicabo atque. Ipsum voluptatem atque minima dicta cupiditate, ex corrupti ut blanditiis quas error culpa.
            </p>
-           <h3 class="text-xl font-bold text-primary mb-2">Nossa Equipe</h3>
+           <h3 class="text-4xl font-bold text-primary mb-2">Nossa Equipe</h3>
            <p class="text-gray-600 text-lg leading-relaxed">
              Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, alias aperiam quod hic veniam aspernatur dolorem enim laborum perferendis quo explicabo assumenda optio totam voluptatibus. Qui ducimus dolorem vel distinctio.
            </p>
